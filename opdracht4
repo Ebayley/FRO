@@ -1,4 +1,4 @@
-#Array code:
+Array code:
 
 let waarde=document.getElementById("menukaart");
 
